@@ -1,5 +1,6 @@
 # hello-world
-[## **Economic Analysis Of Law Review - Securitização De Recebíveis: Uma Avaliação de Créditos Tributários e Dívida Ativa no Setor Público Brasileiro**](https://portalrevistas.ucb.br/index.php/EALR/article/view/8344/pdf)
+## [**Economic Analysis Of Law Review - Securitização De Recebíveis: Uma Avaliação de Créditos Tributários e Dívida Ativa no Setor Público Brasileiro**](https://portalrevistas.ucb.br/index.php/EALR/article/view/8344/pdf)
+
 Esse artigo aborda a questão da securitização de recebíveis, definida como um processo que reúne os passivos de diversas fontes, tanto pessoa física quanto pessoa jurídica e, em seguida, converte-os em um único ativo.
 
 Ademais, adapta essa ideia de conversão de direitos a serem recebíveis em valores negociáveis para o contexto do setor público. Dessa forma, expõe-se a possibilidade de securitização de créditos tributários do setor público como forma de antecipar recursos que serviriam para mitigar a crise fiscal, conforme retratado:
