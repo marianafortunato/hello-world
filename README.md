@@ -8,3 +8,4 @@ Ademais, adapta essa ideia de conversão de direitos a serem recebíveis em valo
 em 2015 (Afonso & Castro, 2016), a União respondeu por 66% da carga tributária e seu estoque de créditos tributários ao final do mesmo ano correspondia a quase 65% do total; os estados responderam por 26,8% da carga tributária e seu estoque de créditos tributários ao final do
 mesmo ano correspondia a 24,8% do total; por fim, os municípios responderam por 7,2% da carga tributária e seu estoque de créditos tributários ao final do mesmo ano correspondia a 10,2% do total.
 
+:moneybag::money_with_wings:
